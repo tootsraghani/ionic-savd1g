@@ -1,0 +1,17 @@
+ion-content {
+  background: linear-gradient(to bottom, #c8ee40, rgb(45, 235, 248));
+}
+
+h2 {
+  color: #1900ff;
+}
+
+p {
+  text-align: justify;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #000000;
+}
+
+ion-item {
+  background: #3eda7a;
+}
